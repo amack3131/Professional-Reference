@@ -1,4 +1,3 @@
 # Professional-Reference
 
-- 🧾 [Josh Madakor – Professional Reference (View)](reference/professional%20reference%20Cyber%20josh%20madakor.jpeg)
-- 🧠 [MITRE ATT&CK Navigator Layers](https://mitre-attack.github.io/attack-navigator/)
+![professional reference Cyber josh madakor](https://github.com/user-attachments/assets/ee089788-14ec-40fb-9e3c-0869378149ab)
